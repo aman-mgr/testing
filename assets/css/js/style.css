@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding:0%;
+}
+div.aman{
+    background-color: antiquewhite;
+    position:sticky;
+    top: 0;
+}
+.box {
+    background-color: aquamarine;
+    border-color: blueviolet;
+    padding:20px 30px;
+}
+.circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgb(109, 128, 0);
+}

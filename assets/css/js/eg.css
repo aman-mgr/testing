@@ -1,0 +1,49 @@
+
+body{
+    background-color: black;
+}
+
+.aman{
+    background-color: rgb(122, 122, 122);  
+    padding-left:13.8% ;
+    position: relative;
+    height: 180px;
+    width: 195px;
+}
+.aman .top .image{
+    position: absolute;
+            bottom: -50px;
+            left: 124px;
+}
+.aman .top .image img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid rgba(233, 28, 151, 0);
+}
+
+.magar{
+    background-color: chartreuse;
+    padding: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+    width:250px;
+}
+.put{
+    color: rgba(87, 128, 0, 0);
+    margin: 6px 0px;
+    font-family: "Noto Sans JP", sans-serif;
+}
+.profile{
+    color: rgb(19, 181, 226);
+    background-color: rgb(24, 2, 18);
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+
+
